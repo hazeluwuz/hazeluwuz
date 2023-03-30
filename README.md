@@ -1,4 +1,4 @@
-### Hi! My name is Hazel and I'm a full stack software engineer dedicated to learning and improvement. I discovered my love for programming when I taught myself Python in high school after wanting to create a Discord Bot! I've since made the leap to turn my passion into a career by attending a coding bootcamp. I'm a graduate from App Academy where I learned various technologies and skills.
+### Hi! My name is Hazel and I'm a full stack software engineer dedicated to learning and improvement. I discovered my love for programming when I taught myself Python in high school after wanting to create a Discord Bot! I've since made the leap to turn my passion into a career by attending a coding bootcamp. I'm a graduate from App Academy where I learned various technologies and skills, some of which are listed below! When I'm not coding, I love playing music and gaming! I'm open to any and all work opportunites so please don't hesitate to reach out! 
 <br>
 
 ## Technologies Learned
